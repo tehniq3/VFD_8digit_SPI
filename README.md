@@ -10,4 +10,4 @@ Display        Wemos D1 Mini (ESP8266)
 - CS   --------- D8 (GPIO15)
 - CLK  --------- D5 (GPIO13)
 - DIN  --------- D7 (GPIO14)
-
+![schematic](https://github.com/tehniq3/VFD_8digit_SPI/blob/main/VFD_8digit_SPI_Wemos_D1_schematic.png)
